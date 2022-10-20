@@ -1,0 +1,97 @@
+PODS:
+  - ActionSheetPicker-3.0 (2.7.1)
+  - AFNetworking (3.2.1):
+    - AFNetworking/NSURLSession (= 3.2.1)
+    - AFNetworking/Reachability (= 3.2.1)
+    - AFNetworking/Security (= 3.2.1)
+    - AFNetworking/Serialization (= 3.2.1)
+    - AFNetworking/UIKit (= 3.2.1)
+  - AFNetworking/NSURLSession (3.2.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.2.1)
+  - AFNetworking/Security (3.2.1)
+  - AFNetworking/Serialization (3.2.1)
+  - AFNetworking/UIKit (3.2.1):
+    - AFNetworking/NSURLSession
+  - Alamofire (4.8.2)
+  - BEMCheckBox (1.4.1)
+  - Cosmos (23.0.0)
+  - DatePickerDialog (4.0)
+  - IQKeyboardManagerSwift (6.5.6)
+  - M13Checkbox (3.4.0)
+  - ObjectMapper (3.5.1)
+  - Player (0.13.1)
+  - Realm (10.32.0):
+    - Realm/Headers (= 10.32.0)
+  - Realm/Headers (10.32.0)
+  - RealmSwift (10.32.0):
+    - Realm (= 10.32.0)
+  - RLBAlertsPickers (1.1.2)
+  - SwiftyJSON (5.0.1)
+  - Zip (1.1.0)
+
+DEPENDENCIES:
+  - ActionSheetPicker-3.0
+  - AFNetworking
+  - Alamofire
+  - BEMCheckBox
+  - Cosmos (~> 23.0)
+  - DatePickerDialog
+  - IQKeyboardManagerSwift
+  - M13Checkbox
+  - ObjectMapper
+  - Player
+  - RealmSwift
+  - RLBAlertsPickers (from `https://github.com/savasadar/Alerts-Pickers.git`, branch `master`)
+  - SwiftyJSON
+  - Zip
+
+SPEC REPOS:
+  trunk:
+    - ActionSheetPicker-3.0
+    - AFNetworking
+    - Alamofire
+    - BEMCheckBox
+    - Cosmos
+    - DatePickerDialog
+    - IQKeyboardManagerSwift
+    - M13Checkbox
+    - ObjectMapper
+    - Player
+    - Realm
+    - RealmSwift
+    - SwiftyJSON
+    - Zip
+
+EXTERNAL SOURCES:
+  RLBAlertsPickers:
+    :branch: master
+    :git: https://github.com/savasadar/Alerts-Pickers.git
+
+CHECKOUT OPTIONS:
+  RLBAlertsPickers:
+    :commit: e03545c1ff31bd584ea278d9b59a6ba05a3bbc6c
+    :git: https://github.com/savasadar/Alerts-Pickers.git
+
+SPEC CHECKSUMS:
+  ActionSheetPicker-3.0: 36da254b97a09ff89679ecb8b8510bd3e5bdc773
+  AFNetworking: b6f891fdfaed196b46c7a83cf209e09697b94057
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  BEMCheckBox: 5ba6e37ade3d3657b36caecc35c8b75c6c2b1a4e
+  Cosmos: b5c6a9a637e28a061b54c8f8b1d8529d7d4db73f
+  DatePickerDialog: ccff2f91ff7a018057a4d72fa5ad6de49c8cb0cd
+  IQKeyboardManagerSwift: c7df9d2deb356c04522f5c4b7b6e4ce4d8ed94fe
+  M13Checkbox: 6f59404540ac98ba83a3d1afac335895a40c6a5d
+  ObjectMapper: 70187b8941977c62ccfb423caf6b50be405cabf0
+  Player: 29186e0d557898b0ebdab42d2e1b47e615838156
+  Realm: a00e93347b8d26d372c7a82f6c0b08d6536a21c8
+  RealmSwift: fe09c29ca409f8f905fe4086f2a52936193f2e3d
+  RLBAlertsPickers: d9ad8d67879c1b2dd1a0ba5a14929e0bbc4d1b58
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+  Zip: 8877eede3dda76bcac281225c20e71c25270774c
+
+PODFILE CHECKSUM: 35a34cffe36b2cd949a1569efc2c511f08800b73
+
+COCOAPODS: 1.11.3
